@@ -1,0 +1,135 @@
+.email_subscribe {
+	border:2px solid #888888;
+	margin-bottom:10px;
+	background-color:#f1f1ff;
+	padding:10px;
+}
+
+.email_subscribe h3 {
+    display: block;
+    font-size: 1.17em;
+    font-weight: bold;
+    margin: 0;
+}
+
+
+clear{clear:both;}
+.af-form-wrapper { text-align:center; }
+.help-form-wrapper { width: 250px; border:1px solid #ececec; padding:0 10px; margin:10px 0}
+.privacyPolicy { display: block; margin-top:10px;font-style:italic; font-size: .8em;}
+
+
+#bsbmadmin .intro {
+    color: #353535;
+    margin: 1em 0 0.5em;
+    padding: 2px 0.5em;
+}
+
+.inside {
+    margin: 10px;
+    position: relative;
+}
+
+.inside h4 {
+	font-size:1.2em;
+	margin:0;
+	padding:10px 0 0 0;
+}
+
+.fieldset {
+    margin: 0.5em 0;
+    padding: 6px 0.5em;
+}
+
+dl {
+    -moz-border-radius: 4px 4px 4px 4px;
+    background: none repeat scroll 0 0 #F6F6F6;
+    border: 1px solid #EEEEEE;
+    clear: both;
+    height: 2px;
+    list-style: none outside none;
+    margin: 0;
+    padding: 0;
+}
+
+dl dt {
+    clear: both;
+    cursor: default;
+    float: left;
+    font-size: 12px;
+    margin: 6px 0;
+    padding: 2px 8px 10px 2px;
+    width: 35%;
+}
+
+dl dt label {
+    color: #454545;
+    cursor: default;
+    font-size: 12px;
+    font-weight: 700;
+}
+
+dl dt p {
+    border-top: 1px dotted #DFDFDF;
+    color: #999999;
+    font-size: 0.9em;
+    line-height: 1.1em;
+    margin-top: 1px;
+    padding-top: 6px;
+}
+
+
+dl:hover dt p { color:#2a76bc; }
+
+dl dd span {
+    font-size: 12px;
+    margin: 0 3em 0 0.5em;
+    position: relative;
+    top: 2px;
+}
+
+
+
+dl dd {
+    color: #333333;
+    float: left;
+    margin: 20px 0;
+    padding: 8px 0 0 10px;
+    width: 60%;
+}
+
+dl dd p.sub1 {
+	clear:both;
+	margin:0;
+	padding:2px 0;
+}
+
+dl dd p.sub2 {
+	clear: both;
+   	font-size: 0.9em; 
+	color:#999999; 
+}
+
+.postbox .inside {
+    padding: 10px;
+}
+
+.bsbm_submit.center {
+    text-align: center;
+}
+
+.error {
+	color:red;
+	font-weight:bold;
+}
+
+.nothanks {
+	width:100px;
+	float:right;
+	text-align:right;
+	padding-top:5px;
+	font-size:10px;
+}	
+
+.nothanks a { color:#999999; text-decoration:none; }
+.nothanks a:hover { text-decoration:underline; }
